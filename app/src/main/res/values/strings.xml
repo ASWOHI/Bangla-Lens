@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bangla Lens</string>
+    <string name="tagline">যেকোনো লেখা বাংলায় বুঝুন ও শুনুন\nUnderstand and listen to any text in Bengali</string>
+
+    <string name="start_magnifier">🔍  ম্যাগনিফায়ার চালু করুন\nStart Floating Magnifier</string>
+    <string name="stop_magnifier">⏹  ম্যাগনিফায়ার বন্ধ করুন\nStop Magnifier</string>
+    <string name="how_to">How to use: 1) Start the magnifier. 2) Open any app. 3) Drag the green magnifier and drop it on the text (a green frame shows what will be read). 4) Press the Speaker button to listen.\n\nTip: a single tap on the magnifier lets you draw your own box instead. Dropping the magnifier at the far left or right edge only parks it.\n\nWhen Android asks what to share, choose \"Entire screen\" (or \"Start now\").</string>
+
+    <string name="perm_overlay_title">Permission needed</string>
+    <string name="perm_overlay_msg">Bangla Lens needs permission to \"Display over other apps\" so the magnifier can float above Facebook, WhatsApp and other apps. Nothing is captured until you tap the magnifier and select text.</string>
+    <string name="go_to_settings">Open settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="magnifier_started">Magnifier is on. Open any app and drag the green magnifier onto text.</string>
+    <string name="capture_denied">Screen capture permission was not given.</string>
+
+    <string name="result_title">অনুবাদ  (Translation)</string>
+    <string name="original_label">মূল লেখা (Original)</string>
+    <string name="bengali_label">বাংলা (Bengali)</string>
+    <string name="empty_result">No text yet. Start the magnifier and select some text.</string>
+    <string name="btn_speaker">🔊  শুনুন (Speaker)</string>
+    <string name="btn_pause">⏸  থামান (Pause)</string>
+    <string name="btn_resume">▶  চালান (Resume)</string>
+    <string name="btn_stop">⏹  বন্ধ (Stop)</string>
+    <string name="btn_repeat">🔁  আবার (Repeat)</string>
+    <string name="btn_copy">📋  কপি (Copy)</string>
+    <string name="btn_again">🔍  আবার বাছুন (Select again)</string>
+    <string name="btn_close">✕</string>
+    <string name="copied">Copied</string>
+
+    <string name="magnifier_desc">Bangla Lens magnifier. Tap, then drag over text.</string>
+    <string name="select_hint_en">Drag over the text you want to read</string>
+    <string name="select_hint_bn">যে লেখা পড়তে চান তার উপর আঙুল টেনে নিন</string>
+    <string name="select_cancel_en">Cancel</string>
+    <string name="select_cancel_bn">বাতিল</string>
+
+    <string name="working">পড়া ও অনুবাদ হচ্ছে… (Reading and translating…)</string>
+    <string name="err_capture">Could not capture the screen. Please try again.</string>
+    <string name="err_protected">This screen is protected by the app (for example a banking app or private content), so Android does not allow it to be captured. Bangla Lens cannot read it.</string>
+    <string name="err_no_text">No readable text was found in the selected area. Try selecting a little more around the text.</string>
+    <string name="err_network">The English-to-Bengali language pack must be downloaded once. Please connect to the internet and try again.</string>
+    <string name="err_generic">Something went wrong: %1$s</string>
+
+    <string name="tts_loading">Voice is still starting. Press Speaker again in a moment.</string>
+    <string name="tts_failed">Text-to-speech could not start on this phone.</string>
+    <string name="tts_no_bengali">A Bengali voice is not installed. Opening the voice-data installer (or install \"Speech Services by Google\" and download Bengali).</string>
+
+    <string name="notif_title">Bangla Lens is on</string>
+    <string name="notif_text">Drag the green magnifier onto text to read it.</string>
+    <string name="stop">Stop</string>
+</resources>
